@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **express js**
 
-- 📫 Contact ne at **rumakarn70@gmail.com**
+- 📫 Contact me at **rumakarn70@gmail.com**
 
 - ⚡ Fun fact **I love watching sitcoms**
 
