@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruma karn</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **express js**
+- 🌱 I’m currently learning **Mongo DB**
 
 - 📫 Contact me at **rumakarn70@gmail.com**
 
